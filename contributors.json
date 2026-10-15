@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-10-15",
   "contributors": [
     {
       "id": 5684387926,
@@ -9,12 +9,5 @@
       "icon": "founder",
       "role": "founder"
     },
-    {
-      "id": 6481172690,
-      "nick": "Biskast",
-      "customText": "Бета тестер DLGram и создатель плагинов",
-      "icon": "star",
-      "role": "tester"
-    }
   ]
 }
